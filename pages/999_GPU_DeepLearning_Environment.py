@@ -108,6 +108,7 @@ pip install tqdm rich loguru
 pip install opencv-python einops
 pip install transformers accelerate datasets
 pip install wandb tensorboard lightning timm sentencepiece
+pip install mace-torch nglview ipywidgets rdkit x3dase
 """)
 
     st.subheader("왜 필요한가")
